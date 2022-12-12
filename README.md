@@ -1,2 +1,3 @@
-# filtering-jump-diffusion
-Bayesian filtering of jump diffusions. Final project for Stat 906
+# Bayesian Filtering for Jump Diffusions
+
+This repo contains code for our final project for Stat 906.
