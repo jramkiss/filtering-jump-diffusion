@@ -1,3 +1,7 @@
+"""
+Note that the SDE base class used here is a variant of the SDE base class used in pfjax, adapated to deal with jumps
+"""
+
 import jax
 import jax.numpy as jnp
 import jax.scipy as jsp
